@@ -1,0 +1,44 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Tomorrow-Night-Eighties (SL).tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".meteor"
+	],
+	"font_face": "Inconsolata LGC",
+	"font_options":
+	[
+		"no_bold",
+		"subpixel_antialias"
+	],
+	"font_size": 15,
+	"hayaku_CSS_prefixes_disable": true,
+	"hayaku_CSS_syntax_autoguess":
+	[
+		"    selector {              ",
+		"        property: value     ",
+		"    }                       "
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"save_on_focus_lost": false,
+	"scroll_past_end": true,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
